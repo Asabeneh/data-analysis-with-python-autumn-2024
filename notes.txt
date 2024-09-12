@@ -1,0 +1,3 @@
+- Installing Visual Studio Code and how to use
+- Writing Python Script using VS Code 
+- Revision of last week
