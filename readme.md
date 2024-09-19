@@ -1000,8 +1000,12 @@ print(countries_with_land)
 print(countries_without_land)
 ```
 
-### 4. Finding Countries by Initial Letters
-For each letter of the alphabet, the script checks which countries start with that letter.
+### Exercises
+1. How can you find countries based on their initial letters from the [countries] (https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py) list? For each letter of the alphabet, how can you determine which countries start with that letter and count the total number of countries that begin with the specified letter?
+2. Create a list of countries that consist of two or more words.
+3. Find the middle country or countries from the country list
+4. Create a list of sender emails from this [data](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/email_exchanges.txt)
+5. Find the lexical(word) variety of this [text](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/obama_speech.txt). You also find the 10 most frequent words in the text, create word cloud, word frequencey bar graph or line graph.
 
 ```python
 for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
