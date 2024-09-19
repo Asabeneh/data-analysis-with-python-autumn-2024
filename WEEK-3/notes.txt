@@ -1,0 +1,6 @@
+- Operators
+- Strings
+- Conditionals
+- List
+- Loops
+- Functions

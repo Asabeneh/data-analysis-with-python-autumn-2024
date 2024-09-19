@@ -47,3 +47,7 @@ print(f'{a} x {b} = {a * b}')
 print(f'{a} / {b} = {a / b}')
 print(f'{a} ^ {b} = {a ** b}')
 print(f'{a} // {b} = {a // b}')
+
+country = 'Finland'
+print(country[0])
+
