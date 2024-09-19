@@ -1008,6 +1008,8 @@ print(countries_without_land)
 5. Find the lexical(word) variety of this [text](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/obama_speech.txt). You also find the 10 most frequent words in the text, create word cloud, word frequencey bar graph or line graph.
 
 ```python
+# Hint if letter is 'F' it will give Finland, Fiji and France
+# 'F':['Finland', 'France', 'Fijie']
 for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
-    print(letter, ['Finland', 'France', 'Fijie'])
+    print(letter)
 ```
