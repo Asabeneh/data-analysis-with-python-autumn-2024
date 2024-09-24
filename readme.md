@@ -408,10 +408,6 @@ Understanding and effectively using these built-in functions is a fundamental pa
 
 ---
 
-Here’s a refined version of your documentation, with duplicates removed and improvements in structure for clarity:
-
----
-
 ## Python Data Types
 
 In Python, **data types** define the kind of data that can be stored and manipulated within a program. This document provides an overview of Python's common data types, along with examples to demonstrate their usage.
