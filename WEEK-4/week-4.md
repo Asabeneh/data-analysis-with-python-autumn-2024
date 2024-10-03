@@ -758,6 +758,8 @@ for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
 
 1. Generate a random string of 24 characters, consisting of a mix of lowercase letters, uppercase letters, and numbers.
 
+Sample output:
+
 ```sh
 UFGKoExs8bQVh0aLcTGYoRek
 ```
@@ -766,7 +768,7 @@ UFGKoExs8bQVh0aLcTGYoRek
 
 ```py
 
-libraries = [
+[
     {
         "name": "NumPy",
         "description": "A fundamental package for numerical computing in Python, providing support for arrays, matrices, and mathematical functions.",
@@ -788,7 +790,7 @@ libraries = [
     }
 ```
 
-3. Find the most popular Python library from this [data](../python_libraries.py), starts are indicators of popularity.
+3. Find the most popular Python library from this [data](../python_libraries.py), stars are indicators of popularity.
 
 4. Transform the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py) data to this:
 
