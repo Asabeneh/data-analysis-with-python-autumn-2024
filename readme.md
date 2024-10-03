@@ -1,61 +1,29 @@
+# Python Programming
 
+- [Python Programming](#python-programming)
+  - [Introduction to Python Programming](#introduction-to-python-programming)
+    - [Installing Python](#installing-python)
+    - [Interactive Python Shell](#interactive-python-shell)
+    - [Installing Visual Studio Code](#installing-visual-studio-code)
+    - [Setting Up Python in Visual Studio Code](#setting-up-python-in-visual-studio-code)
+    - [Writing Your First Python Program in VS Code](#writing-your-first-python-program-in-vs-code)
+    - [Python Comments](#python-comments)
+      - [Single-Line Comments](#single-line-comments)
+      - [Multiline Comments (Docstrings)](#multiline-comments-docstrings)
+    - [Summary](#summary)
+  - [Python Built-in Functions](#python-built-in-functions)
+    - [The `print()` Function](#the-print-function)
+    - [The `len()` Function](#the-len-function)
+    - [The `type()` Function](#the-type-function)
+    - [The `input()` Function](#the-input-function)
+    - [The `range()` Function](#the-range-function)
+    - [Built-in Functions](#built-in-functions)
+    - [The `abs()`, `min()`, `max()`, and `sum()` Functions](#the-abs-min-max-and-sum-functions)
+    - [The `enumerate()` Function](#the-enumerate-function)
+    - [The `dir()` Function](#the-dir-function)
+    - [Builtin Functions Summary](#builtin-functions-summary)
 
-- [Introduction to Python Programming](#introduction-to-python-programming)
-  - [Installing Python](#installing-python)
-  - [Open the Interactive Python Shell](#open-the-interactive-python-shell)
-  - [Installing Visual Studio Code (VS Code)](#installing-visual-studio-code-vs-code)
-  - [Setting Up Python in Visual Studio Code](#setting-up-python-in-visual-studio-code)
-  - [Writing Your First Python Program in VS Code](#writing-your-first-python-program-in-vs-code)
-  - [Python Comments](#python-comments)
-    - [Single-Line Comments](#single-line-comments)
-    - [Multiline Comments (Docstrings)](#multiline-comments-docstrings)
-  - [Summary](#summary)
-- [Python Built-in Functions](#python-built-in-functions)
-  - [1. The `print()` Function](#1-the-print-function)
-  - [2. The `len()` Function](#2-the-len-function)
-  - [3. The `type()` Function](#3-the-type-function)
-  - [4. The `input()` Function](#4-the-input-function)
-  - [5. The `range()` Function](#5-the-range-function)
-  - [6. Built-in Functions](#6-built-in-functions)
-  - [7. The `abs()`, `min()`, `max()`, and `sum()` Functions](#7-the-abs-min-max-and-sum-functions)
-  - [8. The `enumerate()` Function](#8-the-enumerate-function)
-  - [9. The `dir()` Function](#9-the-dir-function)
-  - [Builtin Functions Summary](#builtin-functions-summary)
-- [Python Data Types](#python-data-types)
-  - [Major Data Types in Python](#major-data-types-in-python)
-  - [Numbers](#numbers)
-  - [Booleans](#booleans)
-  - [Strings](#strings)
-  - [Data Types Summary](#data-types-summary)
-- [Python Conditional Statements](#python-conditional-statements)
-  - [If and else](#if-and-else)
-  - [Match case](#match-case)
-- [String and String Operations](#string-and-string-operations)
-  - [String Indexing](#string-indexing)
-  - [String Slicing](#string-slicing)
-  - [String Methods](#string-methods)
-  - [String Formatting](#string-formatting)
-    - [Handling Large Texts](#handling-large-texts)
-    - [Conclusion](#conclusion)
-- [Working with Python Lists](#working-with-python-lists)
-  - [List Characteristics](#list-characteristics)
-  - [Creating an Empty List](#creating-an-empty-list)
-  - [Common List Methods](#common-list-methods)
-  - [Accessing List Elements](#accessing-list-elements)
-  - [Modifying Lists](#modifying-lists)
-  - [Adding Elements](#adding-elements)
-  - [Removing Elements](#removing-elements)
-  - [Inserting Elements](#inserting-elements)
-  - [Counting and Reversing Elements](#counting-and-reversing-elements)
-  - [Sorting Lists](#sorting-lists)
-- [List Summary](#list-summary)
-- [Loops](#loops)
-  - [1. Generate a List of Numbers from 0 to 99](#1-generate-a-list-of-numbers-from-0-to-99)
-  - [2. Working with a List of Names](#2-working-with-a-list-of-names)
-  - [3. Working with a List of Countries](#3-working-with-a-list-of-countries)
-    - [List of Countries](#list-of-countries)
-    - [Filtering Countries Based on "land"](#filtering-countries-based-on-land)
-  - [Exercises](#exercises)
+[WEEK 2 >>](./WEEK-2/week-2.md)
 
 ## Introduction to Python Programming
 
@@ -77,7 +45,7 @@ Before writing any Python code, you need to install Python on your computer. Fol
 
   You should see the installed Python version printed.
 
-### Open the Interactive Python Shell
+### Interactive Python Shell
 
 Python comes with an interactive shell that allows you to run Python commands immediately. Here's how to open it:
 
@@ -107,7 +75,7 @@ Hello World!
 
 You’ve just written your first Python program in the interactive shell!
 
-### Installing Visual Studio Code (VS Code)
+### Installing Visual Studio Code
 
 To write more complex Python programs, you’ll want to use a code editor like Visual Studio Code (VS Code). Follow these steps to install and set up VS Code:
 
@@ -241,7 +209,7 @@ This document focuses on various **built-in functions** in Python, including how
 
 ---
 
-### 1. The `print()` Function
+### The `print()` Function
 
 The `print()` function is one of the most commonly used built-in functions in Python. It displays the output of any data type (integers, strings, lists, etc.) on the screen.
 
@@ -266,7 +234,7 @@ Asabeneh Yetayeh, Finland, Helsinki, 250, ['HTML', 'CSS', 'JS']
 
 ---
 
-### 2. The `len()` Function
+### The `len()` Function
 
 The `len()` function returns the number of items in a sequence (like strings, lists, etc.).
 
@@ -288,7 +256,7 @@ Output:
 
 ---
 
-### 3. The `type()` Function
+### The `type()` Function
 
 The `type()` function returns the type of a given object.
 
@@ -303,7 +271,7 @@ print(1 + 4j, type(1 + 4j))
 
 ---
 
-### 4. The `input()` Function
+### The `input()` Function
 
 The `input()` function is used to take input from the user.
 
@@ -318,7 +286,7 @@ print('Hello, ' + name)
 
 ---
 
-### 5. The `range()` Function
+### The `range()` Function
 
 The `range()` function generates a sequence of numbers, which can be converted into a list or iterated through.
 
@@ -334,7 +302,7 @@ print(list(range(0, 101, 2)))
 
 ---
 
-### 6. Built-in Functions
+### Built-in Functions
 
 Python provides various built-in functions for working with data types like **lists**, **sets**, **dictionaries**, and **tuples**.
 
@@ -350,7 +318,7 @@ print(dict(name='Asab', age=250))
 
 ---
 
-### 7. The `abs()`, `min()`, `max()`, and `sum()` Functions
+### The `abs()`, `min()`, `max()`, and `sum()` Functions
 
 These built-in functions perform basic mathematical operations.
 
@@ -369,7 +337,7 @@ print(sum([1, 2, 3, 4, 5]))
 
 ---
 
-### 8. The `enumerate()` Function
+### The `enumerate()` Function
 
 The `enumerate()` function adds a counter to an iterable (like a list) and returns it as an enumerate object.
 
@@ -384,7 +352,7 @@ print(list(enumerate(countries)))
 
 ---
 
-### 9. The `dir()` Function
+### The `dir()` Function
 
 The `dir()` function returns a list of all attributes and methods available for an object.
 
@@ -408,579 +376,4 @@ Understanding and effectively using these built-in functions is a fundamental pa
 
 ---
 
-## Python Data Types
-
-In Python, **data types** define the kind of data that can be stored and manipulated within a program. This document provides an overview of Python's common data types, along with examples to demonstrate their usage.
-
----
-
-### Major Data Types in Python
-
-- **Numbers**: Integer (`int`), floating-point (`float`), and complex (`complex`).
-- **Booleans**: Logical values representing `True` or `False`.
-- **Strings**: Text or sequence of characters.
-- **List**: Ordered and mutable collection of items.
-- **Set**: Unordered collection of unique items.
-- **Tuple**: Ordered and immutable collection of items.
-- **Dictionary**: Collection of key-value pairs.
-
----
-
-### Numbers
-
-Python supports three types of numbers: integers, floats, and complex numbers.
-
-```python
-# Integers and Floats
-print(10, 100, -10, -5, 0)
-print(9.81, 2.77, 3.14, 36.7)
-
-# Complex Numbers
-print(1 + 2j, 4 + 3j, 10j)
-```
-
-**Explanation**:
-
-- **Integers**: Whole numbers, positive or negative.
-- **Floats**: Numbers with a decimal point.
-- **Complex numbers**: Contain a real and an imaginary part, represented by `j`.
-
----
-
-### Booleans
-
-Booleans in Python are represented by the values `True` and `False`, often used in logical operations.
-
-```python
-# Boolean values
-print(True, False)
-
-# Boolean comparison
-print(4 > 3, -1 < 0)
-print(len('Finland') > len('Sweden'))
-```
-
-**Explanation**:
-
-- Booleans evaluate expressions using comparison operators like `>`, `<`, and `==`.
-- Resulting values are either `True` or `False`.
-
----
-
-### Strings
-
-A **string** is a sequence of characters enclosed in single, double, or triple quotes.
-
-```python
-# String manipulations
-course = 'Data analysis with Python'
-print(len(course))
-print(course.upper())
-print(course.lower())
-print(course.swapcase())
-print(course.title())
-print(course.split())
-print(course.startswith('Data'))
-print('Py' in course)
-print('land' in 'Finland')
-```
-
-**Explanation**:
-
-- **`len()`**: Returns the string's length.
-- **Casing methods**: `upper()`, `lower()`, `swapcase()`, `title()` modify the string's case.
-- **`split()`**: Breaks a string into a list.
-- **`startswith()`**: Checks if a string starts with a specified substring.
-- **Membership operators** (`in`): Check for the existence of a substring.
-
----
-
-**String Formatting**:
-
-Python offers several ways to format strings, with **f-strings** being the most common.
-
-```python
-# Using f-strings for string formatting
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
-full_name = f'{first_name} {last_name}'
-print(full_name)
-
-# Mathematical operations using f-strings
-a, b = 3, 4
-print(f'{a} + {b} = {a + b}')
-print(f'{a} - {b} = {a - b}')
-print(f'{a} * {b} = {a * b}')
-print(f'{a} / {b} = {a / b}')
-print(f'{a} ^ {b} = {a ** b}')
-print(f'{a} // {b} = {a // b}')
-```
-
-**Explanation**:
-
-- **f-strings**: Simplify string interpolation by embedding expressions within `{}`.
-
-**Indexing Strings**:
-
-Strings in Python are **indexed**, meaning each character has a position starting from 0.
-
-```python
-country = 'Finland'
-print(country[0])  # Outputs 'F'
-```
-
-**Explanation**:
-
-- Indexing allows you to access specific characters in a string. `country[0]` retrieves the first character.
-
----
-
-### Data Types Summary
-
-- Python supports basic data types such as **numbers** (int, float, complex), **booleans**, and **strings**.
-- Strings come with versatile methods for manipulation (e.g., `upper()`, `split()`, `startswith()`).
-- **Booleans** are useful for logical operations.
-- **f-strings** offer an efficient way to format strings.
-  
-Understanding these data types is fundamental to master Python.
-
----
-
-## Python Conditional Statements
-
-This Python code demonstrates basic conditional statements (`if`, `elif`, `else`) and introduces a newer pattern-matching approach (`match-case`) for handling specific conditions, often preferred in Python 3.10 and later.
-
-### If and else
-
-**Checking If a Number Is Positive, Negative, or Zero:**
-
-```python
-a = 5
-
-if a > 0:
-    print('The number is positive')
-elif a < 0:
-    print('The number is negative')
-else:
-    print('the number is zero')
-```
-
-**Explanation:**
-
-- This block of code checks whether the variable `a` is positive, negative, or zero using `if`, `elif`, and `else` statements.
-- The `if` condition checks if the number is greater than 0. If true, it prints `"The number is positive"`.
-- If the number isn't positive, the `elif` condition checks if it's negative. If true, it prints `"The number is negative"`.
-- If neither of the two conditions is true, the `else` statement is executed, printing `"The number is zero"`.
-
-**Checking If It’s Raining:**
-
-```python
-is_raining = False 
-
-if is_raining:
-    print('Go out with an umbrella')
-else:
-    print('Go out freely it is a shinny day!')
-```
-
-**Explanation:**
-
-- This section checks the Boolean value `is_raining`.
-- If `is_raining` is `True`, it advises going out with an umbrella.
-- If `is_raining` is `False`, it prints a message suggesting going out freely because it’s a sunny day.
-
-**Weather Conditions Using `if-elif-else`:**
-
-```python
-weather = input('What is the weather today? ').lower()
-
-if weather == 'rainy':
-    print('Go with an unbrella or a raincoat')
-elif weather == 'cloudy':
-    print('It may rain and consider a raincoat')
-elif weather == 'snowy':
-    print('It may be slippery')
-elif weather == 'foggy':
-    print('Visiblity might be hindered')
-elif weather == 'sunny':
-    print('It is a great day to go to the beach')
-else:
-    print('No one knows about the weather')
-
-print('test it')
-
-```
-
-**Explanation:**
-
-- This commented-out section (enclosed in triple quotes) takes the user's input for the weather and performs multiple checks using `if-elif-else`.
-- Based on the weather condition provided, it prints appropriate advice for going outside.
-
-### Match case
-
-**Weather Conditions Using `match-case`:**
-
-```python
-weather = input('What is the weather today? ').lower()
-match weather:
-    case 'rainy':
-        print('Go with an unbrella or a raincoat')
-    case 'cloudy':
-        print('It may rain and consider a raincoat')
-    case 'snowy':
-        print('It may be slippery')
-    case 'foggy':
-        print('Visiblity might be hindered')
-    case 'sunny':
-        print('It is a great day to go to the beach')
-    case _:
-        print('No one knows about the weather')
-```
-
-**Explanation:**
-
-- This block uses the `match-case` structure, introduced in Python 3.10, which provides a more efficient and readable way to handle multiple conditions, replacing a chain of `if-elif-else` statements.
-- The `match` keyword checks the value of the `weather` variable and matches it against specific cases (`'rainy'`, `'cloudy'`, etc.).
-- If no match is found, the default case (`case _`) is executed, printing `"No one knows about the weather"`.
-
-**Key Takeaways**:
-
-- **Conditional Statements (`if-elif-else`)**: Useful for checking multiple conditions and executing different blocks of code based on those conditions.
-- **Pattern Matching (`match-case`)**: A more modern and efficient way to handle conditions that involve multiple specific cases, improving readability, especially for many branches.
-
-This code offers a foundational approach to handling conditional logic in Python, with examples using both traditional and modern constructs.
-
-## String and String Operations
-
-- A string is a sequence of characters enclosed within single, double, or triple quotes.
-- This documentation illustrates various string operations, slicing, methods, and formatting using Python.
-
-**Example: Basic String Declaration and Operations**:
-
-```python
-letter = 'a'
-print(type(letter), len(letter))  # Output: <class 'str'> 1
-
-alphabets = 'abcdefghijklmnopqrstuvwxyz'
-print(alphabets, len(alphabets))  # Output: 'abcdefghijklmnopqrstuvwxyz', 26
-print(list(alphabets))  # Converts the string into a list of characters
-```
-
-### String Indexing
-
-- Python strings support indexing, allowing access to individual characters by their position.
-
-```python
-lang = 'Python'
-print(lang[0])  # Output: 'P'
-print(lang[-1])  # Output: 'n'
-```
-
-### String Slicing
-
-- Slicing allows for extracting a portion of the string.
-
-```python
-print(lang[0:2])  # Output: 'Py' (slices from index 0 to 2, not including index 2)
-print(lang[-4:-1])  # Output: 'tho' (slices from index -4 to -1)
-```
-
-### String Methods
-
-Python provides a variety of string methods for common tasks:
-
-- **String Methods List**:
-  - `'capitalize'`, `'upper'`, `'lower'`, `'title'`, `'strip'`, `'replace'`, `'find'`, `'split'`, `'join'`, `'startswith'`, `'endswith'` etc.
-
-```python
-txt = 'Python for everyone'
-print(txt.upper())  # Output: 'PYTHON FOR EVERYONE'
-print(txt.lower())  # Output: 'python for everyone'
-print(txt.capitalize())  # Output: 'Python for everyone'
-```
-
-### String Formatting
-
-- Python provides several ways to format strings:
-
-1. **Using `+` operator**:
-
-   ```python
-   full_name = first_name + ' ' + last_name
-   print(full_name)  # Concatenates strings
-   ```
-
-2. **Using `format()`**:
-
-   ```python
-   print('I am {} {}. I am {} years old.'.format(first_name, last_name, age))
-   ```
-
-3. **Using f-strings**:
-
-   ```python
-   formated_string = f'I am {first_name} {last_name}. I teach {language}.'
-   print(formated_string)
-   ```
-
-**Working with DNA Sequence (String Operations)**:
-
-- Count the occurrences of specific characters in a DNA string and calculate their frequency.
-
-```python
-dna = '''CTAGCAAACTGCTGAT...'''  # (trimmed for brevity)
-total = len(dna)
-a = dna.count('A')
-c = dna.count('C')
-t = dna.count('T')
-g = dna.count('G')
-print(a / total, c / total, t / total, g / total)  # Output: Frequencies of A, C, T, G
-```
-
-**Additional Examples:**
-
-- **String Replacement**:
-
-   ```python
-   print('I love people'.replace('love', 'like'))  # Output: 'I like people'
-   ```
-
-- **String Searching**:
-
-   ```python
-   txt = 'Python for everyone'
-   print(txt.find('y'))  # Output: 1 (position of first 'y')
-   print(txt.index('P'))  # Output: 0
-   ```
-
-#### Handling Large Texts
-
-- A sample speech from Donald Trump is processed by splitting it into words, converting them to lowercase, and removing punctuation.
-- Then, unique words are identified using a set.
-
-```python
-donald_speech = '''Chief Justice Roberts, President...'''  # (trimmed for brevity)
-words = donald_speech.lower().replace('–', ' ').replace('.', ' ').split()
-unique_words = set(words)
-print(len(unique_words))  # Output: Count of unique words
-```
-
-#### Conclusion
-
-This document covers the basics of string manipulation in Python, including indexing, slicing, methods, and formatting techniques. These concepts are essential for processing text data efficiently in Python.
-
-## Working with Python Lists
-
-This document explains basic operations and methods related to lists in Python, including list creation, accessing elements, and using built-in list methods.
-
-### List Characteristics
-
-- A list is a collection of items, which are **indexed** and **ordered**.
-- Lists are **mutable**, meaning the elements can be changed after the list is created.
-
-### Creating an Empty List
-
-You can create an empty list using the `list()` constructor.
-
-```python
-empty_list = list()
-print(len(empty_list), empty_list)  # Outputs the length and the empty list
-print(type(empty_list))  # Shows the type as <class 'list'>
-print(dir(empty_list))  # Lists all methods available for the list object
-```
-
-### Common List Methods
-
-A list of some of the most common list methods in Python:
-
-```python
-lst_methods = ['append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
-```
-
-### Accessing List Elements
-
-A list of numbers is created. You can access elements using their index.
-
-```python
-nums = [1, 2, 3, 4, 5]
-print(nums, len(nums))  # Prints the list and its length
-print(nums[0])  # Accesses the first element
-print(nums[1])  # Accesses the second element
-print(nums[4])  # Accesses the last element using its positive index
-
-# Accessing the last element using negative indexing
-print(nums[-1])
-
-# Slicing the list
-print(nums[1:4])  # Prints elements from index 1 to 3
-print(nums[2:])  # Prints from index 2 to the end
-print(nums[:3])  # Prints elements from the start to index 2
-```
-
-### Modifying Lists
-
-You can modify lists by adding, inserting, or removing elements.
-
-### Adding Elements
-
-- **append()**: Adds an item to the end of the list.
-- **extend()**: Adds multiple items to the list.
-  
-```python
-# nums.append(6)
-# nums.extend([7, 8, 9, 10])
-```
-
-### Removing Elements
-
-- **pop()**: Removes and returns an element at the given index. If no index is provided, it removes the last element.
-- **del**: Deletes an element or a slice of the list.
-  
-```python
-# nums.pop()  # Removes the last element
-# nums.pop(0)  # Removes the first element
-# del nums[4]  # Deletes the element at index 4
-```
-
-### Inserting Elements
-
-- **insert()**: Inserts an item at a given position.
-
-```python
-nums.insert(3, 333)  # Inserts 333 at index 3
-nums.insert(6, 'the last item')  # Inserts a string at index 6
-```
-
-### Counting and Reversing Elements
-
-- **count()**: Returns the count of occurrences of a value in the list.
-- **reverse()**: Reverses the order of the list.
-
-```python
-countries = ['Finland', 'Finland', 'Finland', 'Denmark', 'Norway', 'Finland', 'Finland', 'Sweden']
-print(countries.count('Finland'))  # Counts how many times 'Finland' appears
-
-copy_lst = nums.copy()  # Copies the list
-copy_lst.reverse()  # Reverses the copied list
-print(copy_lst)
-```
-
-### Sorting Lists
-
-Lists can be sorted in ascending or descending order.
-
-- **sort()**: Sorts the list in place.
-- **sorted()**: Returns a sorted copy of the list.
-
-```python
-new_num = [25, 20, 10, 3, 5, 0, 24]
-print(sorted(new_num))  # Returns a sorted list in ascending order
-print(sorted(new_num, reverse=False))  # Sorts without reversing
-```
-
-## List Summary
-
-This document covered the following list operations:
-
-- Creating and accessing elements in lists.
-- Adding, inserting, and removing elements.
-- Counting and reversing elements.
-- Sorting lists using `sorted()` and `sort()`.
-
-## Loops
-
-In this script, we use loops to solve repetitive tasks such as iterating over lists of names and countries. This example demonstrates how to work with loops in Python.
-
-### 1. Generate a List of Numbers from 0 to 99
-
-The first section generates and prints a list of numbers ranging from 0 to 99.
-
-```python
-print(list(range(100)))
-```
-
-### 2. Working with a List of Names
-
-We have a list of names. The script prints the length of the list and identifies names with more than 6 characters.
-
-```python
-names = ['Diviya', 'Ankush', 'Gokul', 'Hannu', 'Diana', 'Markku', 'Riitta', 'Roope', 'Annika', 'Anna', 'Alzbetak', 'Asabeneh']
-print(len(names))  # Prints the number of names in the list
-
-for name in names:
-    # Identifies and prints names with more than 6 characters
-    if len(name) > 6:
-        print('You got the longest name', name)
-```
-
-### 3. Working with a List of Countries
-
-We have a list of countries. The script categorizes countries based on the presence of the word "land" and separates them into two lists.
-
-#### List of Countries
-
-```python
-countries = [
-    'Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Antigua and Barbuda', 
-    'Argentina', 'Armenia', 'Australia', 'Austria', 'Azerbaijan', 'Bahamas', 'Bahrain', 
-    'Bangladesh', 'Barbados', 'Belarus', 'Belgium', 'Belize', 'Benin', 'Bhutan', 'Bolivia', 
-    'Bosnia and Herzegovina', 'Botswana', 'Brazil', 'Brunei', 'Bulgaria', 'Burkina Faso', 
-    'Burundi', 'Cambodia', 'Cameroon', 'Canada', 'Cape Verde', 'Central African Republic', 
-    'Chad', 'Chile', 'China', 'Colombi', 'Comoros', 'Congo (Brazzaville)', 'Congo', 
-    'Costa Rica', "Cote d'Ivoire", 'Croatia', 'Cuba', 'Cyprus', 'Czech Republic', 'Denmark', 
-    'Djibouti', 'Dominica', 'Dominican Republic', 'East Timor (Timor Timur)', 'Ecuador', 
-    'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea', 'Estonia', 'Ethiopia', 'Fiji', 
-    'Finland', 'France', 'Gabon', 'Gambia, The', 'Georgia', 'Germany', 'Ghana', 'Greece', 
-    'Grenada', 'Guatemala', 'Guinea', 'Guinea-Bissau', 'Guyana', 'Haiti', 'Honduras', 
-    'Hungary', 'Iceland', 'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy', 
-    'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Korea, North', 
-    'Korea, South', 'Kuwait', 'Kyrgyzstan', 'Laos', 'Latvia', 'Lebanon', 'Lesotho', 'Liberia', 
-    'Libya', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Macedonia', 'Madagascar', 'Malawi', 
-    'Malaysia', 'Maldives', 'Mali', 'Malta', 'Marshall Islands', 'Mauritania', 'Mauritius', 
-    'Mexico', 'Micronesia', 'Moldova', 'Monaco', 'Mongolia', 'Morocco', 'Mozambique', 'Myanmar', 
-    'Namibia', 'Nauru', 'Nepal', 'Netherlands', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 
-    'Norway', 'Oman', 'Pakistan', 'Palau', 'Panama', 'Papua New Guinea', 'Paraguay', 'Peru', 
-    'Philippines', 'Poland', 'Portugal', 'Qatar', 'Romania', 'Russia', 'Rwanda', 
-    'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Vincent', 'Samoa', 'San Marino', 
-    'Sao Tome and Principe', 'Saudi Arabia', 'Senegal', 'Serbia and Montenegro', 'Seychelles', 
-    'Sierra Leone', 'Singapore', 'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia', 
-    'South Africa', 'Spain', 'Sri Lanka', 'Sudan', 'Suriname', 'Swaziland', 'Sweden', 
-    'Switzerland', 'Syria', 'Taiwan', 'Tajikistan', 'Tanzania', 'Thailand', 'Togo', 'Tonga', 
-    'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan', 'Tuvalu', 'Uganda', 'Ukraine', 
-    'United Arab Emirates', 'United Kingdom', 'United States', 'Uruguay', 'Uzbekistan', 
-    'Vanuatu', 'Vatican City', 'Venezuela', 'Vietnam', 'Yemen', 'Zambia', 'Zimbabwe'
-]
-```
-
-#### Filtering Countries Based on "land"
-
-```python
-countries_with_land = []
-countries_without_land = []
-
-for country in countries:
-    if 'land' in country:
-        countries_with_land.append(country)
-    else:
-        countries_without_land.append(country)
-
-# Prints countries containing "land"
-print(countries_with_land)
-# Prints countries without "land"
-print(countries_without_land)
-```
-
-### Exercises
-
-1. How can you find countries based on their initial letters from the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py) list? For each letter of the alphabet, how can you determine which countries start with that letter and count the total number of countries that begin with the specified letter?
-2. Create a list of countries that consist of two or more words.
-3. Find the middle country or countries from the country list
-4. Create a list of sender emails from this [data](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/email_exchanges.txt)
-5. Find the lexical(word) variety of this [text](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/obama_speech.txt). You also find the 10 most frequent words in the text, create word cloud, word frequencey bar graph or line graph.
-
-```python
-# Hint if letter is 'F' it will give Finland, Fiji and France
-# 'F':['Finland', 'France', 'Fijie']
-for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
-    print(letter)
-```
+[WEEK 2 >>](./WEEK-2/week-2.md)

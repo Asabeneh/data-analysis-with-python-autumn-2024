@@ -95,4 +95,16 @@ def do_math(x):
 print(do_math(100))
 print(do_math(100)['add_ten']())
 print(do_math(100)['multiply']())
+
+""" def calculate_weight(mass, gravity = 9.81):
+    weight = mass * gravity
+    return ' '.join((str(round(weight, 1)), "Newtons"))
+
+print(calculate_weight(75)) """
+
+def calculate_weight(mass, gravity = 9.81):
+    weight = mass * gravity
+    return f'{round(weight, 1)} Newtons'
+
+print(calculate_weight(75))
   
