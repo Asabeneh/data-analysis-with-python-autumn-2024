@@ -43,7 +43,8 @@
     - [Getting Keys and Values](#getting-keys-and-values)
   - [Dictionaries Summary](#dictionaries-summary)
       - [Filtering Countries Based on "land"](#filtering-countries-based-on-land)
-    - [Exercises](#exercises)
+    - [Exercises - 1](#exercises---1)
+    - [Exercises - 2](#exercises---2)
 
 ---
 
@@ -738,7 +739,7 @@ print(countries_with_land)
 print(countries_without_land)
 ```
 
-### Exercises
+### Exercises - 1
 
 1. How can you find countries based on their initial letters from the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py) list? For each letter of the alphabet, how can you determine which countries start with that letter and count the total number of countries that begin with the specified letter?
 2. Create a list of countries that consist of two or more words.
@@ -752,5 +753,106 @@ print(countries_without_land)
 for letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
     print(letter)
 ```
+
+### Exercises - 2
+
+1. Generate a random string of 24 characters, consisting of a mix of lowercase letters, uppercase letters, and numbers.
+
+```sh
+UFGKoExs8bQVh0aLcTGYoRek
+```
+
+2. Transform this [data](../python_libraries.py) to this:
+
+```py
+
+libraries = [
+    {
+        "name": "NumPy",
+        "description": "A fundamental package for numerical computing in Python, providing support for arrays, matrices, and mathematical functions.",
+        "key_features": ["N-dimensional arrays", "Mathematical functions", "Linear algebra support"],
+        "use_cases": ["Data analysis", "Scientific computing"],
+    },
+    {
+        "name": "Pandas",
+        "description": "A powerful data manipulation and analysis library, providing data structures like DataFrames for efficient data handling.",
+        "key_features": ["DataFrame support", "Data manipulation", "Time series functionality"],
+        "use_cases": ["Data analysis", "Data cleaning"],
+    },
+    {
+        "name": "Matplotlib",
+        "description": "A plotting library for Python that enables the creation of static, animated, and interactive visualizations.",
+        "key_features": ["2D plotting", "Integration with NumPy", "Wide range of plots"],
+        "use_cases": ["Data visualization", "Scientific plotting"],
+
+    }
+```
+
+3. Find the most popular Python library from this [data](../python_libraries.py), starts are indicators of popularity.
+
+4. Transform the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py) data to this:
+
+```sh
+
+{'A': ['Afghanistan',
+       'Albania',
+       'Algeria',
+       'Andorra',
+       'Angola',
+       'Antigua and Barbuda',
+       'Argentina',
+       'Armenia',
+       'Australia',
+       'Austria',
+       'Azerbaijan'],        
+ 'B': ['Bahamas',
+       'Bahrain',
+       'Bangladesh',
+       'Barbados',
+       'Belarus',
+       'Belgium',
+       'Belize',
+       'Benin',
+       'Bhutan',
+       'Bolivia',
+       'Bosnia and Herzegovina',
+       'Botswana',
+       'Brazil',
+       'Brunei',
+       'Bulgaria',
+       'Burkina Faso',
+       'Burundi'],
+ 'C': ['Cambodia',
+       'Cameroon',
+       'Canada',
+       'Cape Verde',
+       'Central African Republic',
+       'Chad',
+       'Chile',
+       'China',
+       'Colombi',
+       'Comoros',
+       'Congo (Brazzaville)',
+       'Congo',
+       'Costa Rica',
+       "Cote d'Ivoire",
+       'Croatia',
+       'Cuba',
+       'Cyprus',
+       'Czech Republic'],
+ 'D': ['Denmark', 'Djibouti', 'Dominica', 'Dominican Republic'],
+ 'E': ['East Timor (Timor Timur)',
+       'Ecuador',
+       'Egypt',
+       'El Salvador',
+       'Equatorial Guinea',
+       'Eritrea',
+       'Estonia',
+       'Ethiopia'],
+ 'F': ['Fiji', 'Finland', 'France']
+ .... 
+ }
+
+ ```
 
 [<< WEEK 3](../WEEK-3/week-3.md) | [WEEK 5 >>](../WEEK-5/week-5.md)
