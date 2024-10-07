@@ -26,6 +26,7 @@
     - [Creating a Function to Generate a Random User ID](#creating-a-function-to-generate-a-random-user-id)
     - [Example Usage of `generate_random_id`](#example-usage-of-generate_random_id)
     - [Modules summary](#modules-summary)
+    - [Exercises](#exercises)
 
 
 [<< WEEK 4](../WEEK-4/week-4.md.md) | [WEEK 6 >>](../WEEK-6/week-6.md)
@@ -517,6 +518,7 @@ This function is useful when you need unique identifiers for users or other enti
 
 ---
 
+
 ### Modules summary
 
 In this tutorial, we explored:
@@ -526,5 +528,39 @@ In this tutorial, we explored:
 3. **`random` Library**: Generating random numbers, choosing random elements, and creating random IDs.
 
 By modularizing your code and using built-in libraries like `math` and `random`, you can write cleaner, more efficient Python programs.
+
+### Exercises
+
+1. My students' ages range from 18 to 75. Each batch typically has 25 students, although the number can sometimes be less than or greater than 25. Create a function that generates student ages.
+
+2. Descriptive statistics primarily focus on summarizing the central tendency, variability, and distribution of sample data. Central tendency refers to the measure that represents the typical value or characteristic of a sample or population. Common measures of central tendency include the mean, median, and mode.
+
+   Variability, on the other hand, indicates the extent of differences among the elements within a sample or population based on the measured characteristics. Key metrics of variability include range, variance, and standard deviation.
+
+   Create a `stats.py` file and define functions for calculating mean, median, mode, range, variance, and standard deviation. Then, import the `stats.py` module into the `main.py` file. Find the mean, median, mode, range, variance, and standard deviation of the ages list.
+
+   ```python
+   ages = [23, 45, 30, 32, 50, 19, 45, 33, 40, 30, 28, 26, 19, 22, 49, 35, 55, 21, 25, 31, 29, 58, 62, 41, 55]
+   ```
+
+3. Create a Python list of special characters using the standard `string` module.
+
+   ```python
+   ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
+   ```
+
+4. Generate a random string of 24 characters, consisting of a mix of lowercase letters, uppercase letters, and numbers. This string can be used for unique identification. Use the Python standard string module to get digits and alphabets.
+
+   **Sample output:**
+
+   ```sh
+   UFGKoExs8bQVh0aLcTGYoRek
+   ```
+
+5. Create a function that generates a six-digit lottery number as a Python list, where each number is unique.
+
+   ```python
+   [15, 67, 32, 90, 48, 22]
+   ```
 
 [<< WEEK 4](../WEEK-4/week-4.md.md) | [WEEK 6 >>](../WEEK-6/week-6.md)
