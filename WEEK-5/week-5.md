@@ -540,16 +540,18 @@ By modularizing your code and using built-in libraries like `math` and `random`,
    Create a `stats.py` file and define functions for calculating mean, median, mode, range, variance, and standard deviation. Then, import the `stats.py` module into the `main.py` file. Find the mean, median, mode, range, variance, and standard deviation of the ages list.
 
    ```python
+   #Hint=> import random 
    ages = [23, 45, 30, 32, 50, 19, 45, 33, 40, 30, 28, 26, 19, 22, 49, 35, 55, 21, 25, 31, 29, 58, 62, 41, 55]
    ```
 
 3. Create a Python list of special characters using the standard `string` module.
 
    ```python
-   ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
+   # Hint => import string
+   special_characters = ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
    ```
 
-4. Generate a random string of 24 characters, consisting of a mix of lowercase letters, uppercase letters, and numbers. This string can be used for unique identification. Use the Python standard string module to get digits and alphabets.
+4. Generate a random string of 24 characters, consisting of a mix of lowercase letters, uppercase letters, and numbers. This string can be used for unique identification. Use the Python standard `string module` to get digits and alphabets.
 
    **Sample output:**
 
