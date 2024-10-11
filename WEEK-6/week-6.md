@@ -695,14 +695,17 @@ File handling in Python is a straightforward process that plays a crucial role i
 
 ### Self Study
 
-NumPy:[ https://github.com/Asabeneh/NumPy](https://github.com/Asabeneh/NumPy/blob/main/NumPy.ipynb)
-Pandas: https://asabeneh.github.io/Pandas/
-Matplotlib(Data Visualization): https://github.com/Asabeneh/matplotlib/blob/master/Visualizations.ipynb
+[Regular expression](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md)
+[Date and time in Python](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/16_Day_Python_date_time/16_python_datetime.md)
+[NumPy](https://github.com/Asabeneh/NumPy/blob/main/NumPy.ipynb)
+[Pandas](https://asabeneh.github.io/Pandas/)
+[Matplotlib(Data Visualization)](https://github.com/Asabeneh/matplotlib/blob/master/Visualizations.ipynb
+)
 
 ## Exercises
 
 - Will be released
 
-1. Find the number of languages in the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) data.
+[countries data](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) 
 
 [<< WEEK 4](../WEEK-4/week-5.md.md) | [WEEK 7 >>](../WEEK-7/week-6.md)
