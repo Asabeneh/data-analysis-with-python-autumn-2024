@@ -1,0 +1,4 @@
+Functional Programming
+Examples:Map, Filter, Reduce
+List comprehension
+File handling

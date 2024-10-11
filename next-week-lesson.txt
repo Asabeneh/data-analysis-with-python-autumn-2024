@@ -1,0 +1,8 @@
+- Python Error
+- Exception handling
+- Python datetime
+- Regular Expression
+- Use third party Python packages
+Data Analysi: NumPy, Pandas, Matplotlib
+
+- OOP

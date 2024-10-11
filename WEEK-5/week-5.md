@@ -565,4 +565,8 @@ By modularizing your code and using built-in libraries like `math` and `random`,
    [15, 67, 32, 90, 48, 22]
    ```
 
+6. Find the 10 most populated countries and 10 most spoken languages from the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) data.
+
+7. Find the number of languages in the [countries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) data.
+
 [<< WEEK 4](../WEEK-4/week-4.md.md) | [WEEK 6 >>](../WEEK-6/week-6.md)

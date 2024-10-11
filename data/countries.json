@@ -1,0 +1,1502 @@
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "population": 27657145,
+        "flag": "https://restcountries.eu/data/afg.svg"
+    },
+    {
+        "name": "Åland Islands",
+        "capital": "Mariehamn",
+        "population": 28875,
+        "flag": "https://restcountries.eu/data/ala.svg"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "population": 2886026,
+        "flag": "https://restcountries.eu/data/alb.svg"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "population": 40400000,
+        "flag": "https://restcountries.eu/data/dza.svg"
+    },
+    {
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "population": 57100,
+        "flag": "https://restcountries.eu/data/asm.svg"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "population": 78014,
+        "flag": "https://restcountries.eu/data/and.svg"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "population": 25868000,
+        "flag": "https://restcountries.eu/data/ago.svg"
+    },
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "population": 13452,
+        "flag": "https://restcountries.eu/data/aia.svg"
+    },
+    {
+        "name": "Antarctica",
+        "capital": "",
+        "population": 1000,
+        "flag": "https://restcountries.eu/data/ata.svg"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "population": 86295,
+        "flag": "https://restcountries.eu/data/atg.svg"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "population": 43590400,
+        "flag": "https://restcountries.eu/data/arg.svg"
+    },
+    {
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "population": 2994400,
+        "flag": "https://restcountries.eu/data/arm.svg"
+    },
+    {
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "population": 107394,
+        "flag": "https://restcountries.eu/data/abw.svg"
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "population": 24117360,
+        "flag": "https://restcountries.eu/data/aus.svg"
+    },
+    {
+        "name": "Austria",
+        "capital": "Vienna",
+        "population": 8725931,
+        "flag": "https://restcountries.eu/data/aut.svg"
+    },
+    {
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "population": 9730500,
+        "flag": "https://restcountries.eu/data/aze.svg"
+    },
+    {
+        "name": "Bahamas",
+        "capital": "Nassau",
+        "population": 378040,
+        "flag": "https://restcountries.eu/data/bhs.svg"
+    },
+    {
+        "name": "Bahrain",
+        "capital": "Manama",
+        "population": 1404900,
+        "flag": "https://restcountries.eu/data/bhr.svg"
+    },
+    {
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "population": 161006790,
+        "flag": "https://restcountries.eu/data/bgd.svg"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "population": 285000,
+        "flag": "https://restcountries.eu/data/brb.svg"
+    },
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "population": 9498700,
+        "flag": "https://restcountries.eu/data/blr.svg"
+    },
+    {
+        "name": "Belgium",
+        "capital": "Brussels",
+        "population": 11319511,
+        "flag": "https://restcountries.eu/data/bel.svg"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "population": 370300,
+        "flag": "https://restcountries.eu/data/blz.svg"
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "population": 10653654,
+        "flag": "https://restcountries.eu/data/ben.svg"
+    },
+    {
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "population": 61954,
+        "flag": "https://restcountries.eu/data/bmu.svg"
+    },
+    {
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "population": 775620,
+        "flag": "https://restcountries.eu/data/btn.svg"
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "capital": "Sucre",
+        "population": 10985059,
+        "flag": "https://restcountries.eu/data/bol.svg"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk",
+        "population": 17408,
+        "flag": "https://restcountries.eu/data/bes.svg"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "population": 3531159,
+        "flag": "https://restcountries.eu/data/bih.svg"
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "population": 2141206,
+        "flag": "https://restcountries.eu/data/bwa.svg"
+    },
+    {
+        "name": "Bouvet Island",
+        "capital": "",
+        "population": 0,
+        "flag": "https://restcountries.eu/data/bvt.svg"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 206135893,
+        "flag": "https://restcountries.eu/data/bra.svg"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "population": 3000,
+        "flag": "https://restcountries.eu/data/iot.svg"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "capital": "",
+        "population": 300,
+        "flag": "https://restcountries.eu/data/umi.svg"
+    },
+    {
+        "name": "Virgin Islands (British)",
+        "capital": "Road Town",
+        "population": 28514,
+        "flag": "https://restcountries.eu/data/vgb.svg"
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
+        "capital": "Charlotte Amalie",
+        "population": 114743,
+        "flag": "https://restcountries.eu/data/vir.svg"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "capital": "Bandar Seri Begawan",
+        "population": 411900,
+        "flag": "https://restcountries.eu/data/brn.svg"
+    },
+    {
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "population": 7153784,
+        "flag": "https://restcountries.eu/data/bgr.svg"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "population": 19034397,
+        "flag": "https://restcountries.eu/data/bfa.svg"
+    },
+    {
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "population": 10114505,
+        "flag": "https://restcountries.eu/data/bdi.svg"
+    },
+    {
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "population": 15626444,
+        "flag": "https://restcountries.eu/data/khm.svg"
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaoundé",
+        "population": 22709892,
+        "flag": "https://restcountries.eu/data/cmr.svg"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": 36155487,
+        "flag": "https://restcountries.eu/data/can.svg"
+    },
+    {
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "population": 531239,
+        "flag": "https://restcountries.eu/data/cpv.svg"
+    },
+    {
+        "name": "Cayman Islands",
+        "capital": "George Town",
+        "population": 58238,
+        "flag": "https://restcountries.eu/data/cym.svg"
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "population": 4998000,
+        "flag": "https://restcountries.eu/data/caf.svg"
+    },
+    {
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "population": 14497000,
+        "flag": "https://restcountries.eu/data/tcd.svg"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "population": 18191900,
+        "flag": "https://restcountries.eu/data/chl.svg"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1377422166,
+        "flag": "https://restcountries.eu/data/chn.svg"
+    },
+    {
+        "name": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "population": 2072,
+        "flag": "https://restcountries.eu/data/cxr.svg"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "population": 550,
+        "flag": "https://restcountries.eu/data/cck.svg"
+    },
+    {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "population": 48759958,
+        "flag": "https://restcountries.eu/data/col.svg"
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "population": 806153,
+        "flag": "https://restcountries.eu/data/com.svg"
+    },
+    {
+        "name": "Congo",
+        "capital": "Brazzaville",
+        "population": 4741000,
+        "flag": "https://restcountries.eu/data/cog.svg"
+    },
+    {
+        "name": "Congo (Democratic Republic of the)",
+        "capital": "Kinshasa",
+        "population": 85026000,
+        "flag": "https://restcountries.eu/data/cod.svg"
+    },
+    {
+        "name": "Cook Islands",
+        "capital": "Avarua",
+        "population": 18100,
+        "flag": "https://restcountries.eu/data/cok.svg"
+    },
+    {
+        "name": "Costa Rica",
+        "capital": "San José",
+        "population": 4890379,
+        "flag": "https://restcountries.eu/data/cri.svg"
+    },
+    {
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "population": 4190669,
+        "flag": "https://restcountries.eu/data/hrv.svg"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "population": 11239004,
+        "flag": "https://restcountries.eu/data/cub.svg"
+    },
+    {
+        "name": "Curaçao",
+        "capital": "Willemstad",
+        "population": 154843,
+        "flag": "https://restcountries.eu/data/cuw.svg"
+    },
+    {
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "population": 847000,
+        "flag": "https://restcountries.eu/data/cyp.svg"
+    },
+    {
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "population": 10558524,
+        "flag": "https://restcountries.eu/data/cze.svg"
+    },
+    {
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "population": 5717014,
+        "flag": "https://restcountries.eu/data/dnk.svg"
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "population": 900000,
+        "flag": "https://restcountries.eu/data/dji.svg"
+    },
+    {
+        "name": "Dominica",
+        "capital": "Roseau",
+        "population": 71293,
+        "flag": "https://restcountries.eu/data/dma.svg"
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "population": 10075045,
+        "flag": "https://restcountries.eu/data/dom.svg"
+    },
+    {
+        "name": "Ecuador",
+        "capital": "Quito",
+        "population": 16545799,
+        "flag": "https://restcountries.eu/data/ecu.svg"
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "population": 91290000,
+        "flag": "https://restcountries.eu/data/egy.svg"
+    },
+    {
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "population": 6520675,
+        "flag": "https://restcountries.eu/data/slv.svg"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "population": 1222442,
+        "flag": "https://restcountries.eu/data/gnq.svg"
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "population": 5352000,
+        "flag": "https://restcountries.eu/data/eri.svg"
+    },
+    {
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "population": 1315944,
+        "flag": "https://restcountries.eu/data/est.svg"
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "population": 92206005,
+        "flag": "https://restcountries.eu/data/eth.svg"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "capital": "Stanley",
+        "population": 2563,
+        "flag": "https://restcountries.eu/data/flk.svg"
+    },
+    {
+        "name": "Faroe Islands",
+        "capital": "Tórshavn",
+        "population": 49376,
+        "flag": "https://restcountries.eu/data/fro.svg"
+    },
+    {
+        "name": "Fiji",
+        "capital": "Suva",
+        "population": 867000,
+        "flag": "https://restcountries.eu/data/fji.svg"
+    },
+    {
+        "name": "Finland",
+        "capital": "Helsinki",
+        "population": 5491817,
+        "flag": "https://restcountries.eu/data/fin.svg"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "population": 66710000,
+        "flag": "https://restcountries.eu/data/fra.svg"
+    },
+    {
+        "name": "French Guiana",
+        "capital": "Cayenne",
+        "population": 254541,
+        "flag": "https://restcountries.eu/data/guf.svg"
+    },
+    {
+        "name": "French Polynesia",
+        "capital": "Papeetē",
+        "population": 271800,
+        "flag": "https://restcountries.eu/data/pyf.svg"
+    },
+    {
+        "name": "French Southern Territories",
+        "capital": "Port-aux-Français",
+        "population": 140,
+        "flag": "https://restcountries.eu/data/atf.svg"
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "population": 1802278,
+        "flag": "https://restcountries.eu/data/gab.svg"
+    },
+    {
+        "name": "Gambia",
+        "capital": "Banjul",
+        "population": 1882450,
+        "flag": "https://restcountries.eu/data/gmb.svg"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "population": 3720400,
+        "flag": "https://restcountries.eu/data/geo.svg"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": 81770900,
+        "flag": "https://restcountries.eu/data/deu.svg"
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "population": 27670174,
+        "flag": "https://restcountries.eu/data/gha.svg"
+    },
+    {
+        "name": "Gibraltar",
+        "capital": "Gibraltar",
+        "population": 33140,
+        "flag": "https://restcountries.eu/data/gib.svg"
+    },
+    {
+        "name": "Greece",
+        "capital": "Athens",
+        "population": 10858018,
+        "flag": "https://restcountries.eu/data/grc.svg"
+    },
+    {
+        "name": "Greenland",
+        "capital": "Nuuk",
+        "population": 55847,
+        "flag": "https://restcountries.eu/data/grl.svg"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St. George's",
+        "population": 103328,
+        "flag": "https://restcountries.eu/data/grd.svg"
+    },
+    {
+        "name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "population": 400132,
+        "flag": "https://restcountries.eu/data/glp.svg"
+    },
+    {
+        "name": "Guam",
+        "capital": "Hagåtña",
+        "population": 184200,
+        "flag": "https://restcountries.eu/data/gum.svg"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "population": 16176133,
+        "flag": "https://restcountries.eu/data/gtm.svg"
+    },
+    {
+        "name": "Guernsey",
+        "capital": "St. Peter Port",
+        "population": 62999,
+        "flag": "https://restcountries.eu/data/ggy.svg"
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "population": 12947000,
+        "flag": "https://restcountries.eu/data/gin.svg"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "population": 1547777,
+        "flag": "https://restcountries.eu/data/gnb.svg"
+    },
+    {
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "population": 746900,
+        "flag": "https://restcountries.eu/data/guy.svg"
+    },
+    {
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "population": 11078033,
+        "flag": "https://restcountries.eu/data/hti.svg"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "capital": "",
+        "population": 0,
+        "flag": "https://restcountries.eu/data/hmd.svg"
+    },
+    {
+        "name": "Holy See",
+        "capital": "Rome",
+        "population": 451,
+        "flag": "https://restcountries.eu/data/vat.svg"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "population": 8576532,
+        "flag": "https://restcountries.eu/data/hnd.svg"
+    },
+    {
+        "name": "Hong Kong",
+        "capital": "City of Victoria",
+        "population": 7324300,
+        "flag": "https://restcountries.eu/data/hkg.svg"
+    },
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "population": 9823000,
+        "flag": "https://restcountries.eu/data/hun.svg"
+    },
+    {
+        "name": "Iceland",
+        "capital": "Reykjavík",
+        "population": 334300,
+        "flag": "https://restcountries.eu/data/isl.svg"
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1295210000,
+        "flag": "https://restcountries.eu/data/ind.svg"
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "population": 258705000,
+        "flag": "https://restcountries.eu/data/idn.svg"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "population": 22671331,
+        "flag": "https://restcountries.eu/data/civ.svg"
+    },
+    {
+        "name": "Iran (Islamic Republic of)",
+        "capital": "Tehran",
+        "population": 79369900,
+        "flag": "https://restcountries.eu/data/irn.svg"
+    },
+    {
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "population": 37883543,
+        "flag": "https://restcountries.eu/data/irq.svg"
+    },
+    {
+        "name": "Ireland",
+        "capital": "Dublin",
+        "population": 6378000,
+        "flag": "https://restcountries.eu/data/irl.svg"
+    },
+    {
+        "name": "Isle of Man",
+        "capital": "Douglas",
+        "population": 84497,
+        "flag": "https://restcountries.eu/data/imn.svg"
+    },
+    {
+        "name": "Israel",
+        "capital": "Jerusalem",
+        "population": 8527400,
+        "flag": "https://restcountries.eu/data/isr.svg"
+    },
+    {
+        "name": "Italy",
+        "capital": "Rome",
+        "population": 60665551,
+        "flag": "https://restcountries.eu/data/ita.svg"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "population": 2723246,
+        "flag": "https://restcountries.eu/data/jam.svg"
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": 126960000,
+        "flag": "https://restcountries.eu/data/jpn.svg"
+    },
+    {
+        "name": "Jersey",
+        "capital": "Saint Helier",
+        "population": 100800,
+        "flag": "https://restcountries.eu/data/jey.svg"
+    },
+    {
+        "name": "Jordan",
+        "capital": "Amman",
+        "population": 9531712,
+        "flag": "https://restcountries.eu/data/jor.svg"
+    },
+    {
+        "name": "Kazakhstan",
+        "capital": "Astana",
+        "population": 17753200,
+        "flag": "https://restcountries.eu/data/kaz.svg"
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "population": 47251000,
+        "flag": "https://restcountries.eu/data/ken.svg"
+    },
+    {
+        "name": "Kiribati",
+        "capital": "South Tarawa",
+        "population": 113400,
+        "flag": "https://restcountries.eu/data/kir.svg"
+    },
+    {
+        "name": "Kuwait",
+        "capital": "Kuwait City",
+        "population": 4183658,
+        "flag": "https://restcountries.eu/data/kwt.svg"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "population": 6047800,
+        "flag": "https://restcountries.eu/data/kgz.svg"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "capital": "Vientiane",
+        "population": 6492400,
+        "flag": "https://restcountries.eu/data/lao.svg"
+    },
+    {
+        "name": "Latvia",
+        "capital": "Riga",
+        "population": 1961600,
+        "flag": "https://restcountries.eu/data/lva.svg"
+    },
+    {
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "population": 5988000,
+        "flag": "https://restcountries.eu/data/lbn.svg"
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "population": 1894194,
+        "flag": "https://restcountries.eu/data/lso.svg"
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "population": 4615000,
+        "flag": "https://restcountries.eu/data/lbr.svg"
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "population": 6385000,
+        "flag": "https://restcountries.eu/data/lby.svg"
+    },
+    {
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "population": 37623,
+        "flag": "https://restcountries.eu/data/lie.svg"
+    },
+    {
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "population": 2872294,
+        "flag": "https://restcountries.eu/data/ltu.svg"
+    },
+    {
+        "name": "Luxembourg",
+        "capital": "Luxembourg",
+        "population": 576200,
+        "flag": "https://restcountries.eu/data/lux.svg"
+    },
+    {
+        "name": "Macao",
+        "capital": "",
+        "population": 649100,
+        "flag": "https://restcountries.eu/data/mac.svg"
+    },
+    {
+        "name": "Macedonia (the former Yugoslav Republic of)",
+        "capital": "Skopje",
+        "population": 2058539,
+        "flag": "https://restcountries.eu/data/mkd.svg"
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "population": 22434363,
+        "flag": "https://restcountries.eu/data/mdg.svg"
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "population": 16832910,
+        "flag": "https://restcountries.eu/data/mwi.svg"
+    },
+    {
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "population": 31405416,
+        "flag": "https://restcountries.eu/data/mys.svg"
+    },
+    {
+        "name": "Maldives",
+        "capital": "Malé",
+        "population": 344023,
+        "flag": "https://restcountries.eu/data/mdv.svg"
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "population": 18135000,
+        "flag": "https://restcountries.eu/data/mli.svg"
+    },
+    {
+        "name": "Malta",
+        "capital": "Valletta",
+        "population": 425384,
+        "flag": "https://restcountries.eu/data/mlt.svg"
+    },
+    {
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "population": 54880,
+        "flag": "https://restcountries.eu/data/mhl.svg"
+    },
+    {
+        "name": "Martinique",
+        "capital": "Fort-de-France",
+        "population": 378243,
+        "flag": "https://restcountries.eu/data/mtq.svg"
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "population": 3718678,
+        "flag": "https://restcountries.eu/data/mrt.svg"
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "population": 1262879,
+        "flag": "https://restcountries.eu/data/mus.svg"
+    },
+    {
+        "name": "Mayotte",
+        "capital": "Mamoudzou",
+        "population": 226915,
+        "flag": "https://restcountries.eu/data/myt.svg"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "population": 122273473,
+        "flag": "https://restcountries.eu/data/mex.svg"
+    },
+    {
+        "name": "Micronesia (Federated States of)",
+        "capital": "Palikir",
+        "population": 102800,
+        "flag": "https://restcountries.eu/data/fsm.svg"
+    },
+    {
+        "name": "Moldova (Republic of)",
+        "capital": "Chișinău",
+        "population": 3553100,
+        "flag": "https://restcountries.eu/data/mda.svg"
+    },
+    {
+        "name": "Monaco",
+        "capital": "Monaco",
+        "population": 38400,
+        "flag": "https://restcountries.eu/data/mco.svg"
+    },
+    {
+        "name": "Mongolia",
+        "capital": "Ulan Bator",
+        "population": 3093100,
+        "flag": "https://restcountries.eu/data/mng.svg"
+    },
+    {
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "population": 621810,
+        "flag": "https://restcountries.eu/data/mne.svg"
+    },
+    {
+        "name": "Montserrat",
+        "capital": "Plymouth",
+        "population": 4922,
+        "flag": "https://restcountries.eu/data/msr.svg"
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "population": 33337529,
+        "flag": "https://restcountries.eu/data/mar.svg"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "population": 26423700,
+        "flag": "https://restcountries.eu/data/moz.svg"
+    },
+    {
+        "name": "Myanmar",
+        "capital": "Naypyidaw",
+        "population": 51419420,
+        "flag": "https://restcountries.eu/data/mmr.svg"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "population": 2324388,
+        "flag": "https://restcountries.eu/data/nam.svg"
+    },
+    {
+        "name": "Nauru",
+        "capital": "Yaren",
+        "population": 10084,
+        "flag": "https://restcountries.eu/data/nru.svg"
+    },
+    {
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "population": 28431500,
+        "flag": "https://restcountries.eu/data/npl.svg"
+    },
+    {
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "population": 17019800,
+        "flag": "https://restcountries.eu/data/nld.svg"
+    },
+    {
+        "name": "New Caledonia",
+        "capital": "Nouméa",
+        "population": 268767,
+        "flag": "https://restcountries.eu/data/ncl.svg"
+    },
+    {
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "population": 4697854,
+        "flag": "https://restcountries.eu/data/nzl.svg"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "population": 6262703,
+        "flag": "https://restcountries.eu/data/nic.svg"
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "population": 20715000,
+        "flag": "https://restcountries.eu/data/ner.svg"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "population": 186988000,
+        "flag": "https://restcountries.eu/data/nga.svg"
+    },
+    {
+        "name": "Niue",
+        "capital": "Alofi",
+        "population": 1470,
+        "flag": "https://restcountries.eu/data/niu.svg"
+    },
+    {
+        "name": "Norfolk Island",
+        "capital": "Kingston",
+        "population": 2302,
+        "flag": "https://restcountries.eu/data/nfk.svg"
+    },
+    {
+        "name": "Korea (Democratic People's Republic of)",
+        "capital": "Pyongyang",
+        "population": 25281000,
+        "flag": "https://restcountries.eu/data/prk.svg"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "population": 56940,
+        "flag": "https://restcountries.eu/data/mnp.svg"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "population": 5223256,
+        "flag": "https://restcountries.eu/data/nor.svg"
+    },
+    {
+        "name": "Oman",
+        "capital": "Muscat",
+        "population": 4420133,
+        "flag": "https://restcountries.eu/data/omn.svg"
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "population": 194125062,
+        "flag": "https://restcountries.eu/data/pak.svg"
+    },
+    {
+        "name": "Palau",
+        "capital": "Ngerulmud",
+        "population": 17950,
+        "flag": "https://restcountries.eu/data/plw.svg"
+    },
+    {
+        "name": "Palestine, State of",
+        "capital": "Ramallah",
+        "population": 4682467,
+        "flag": "https://restcountries.eu/data/pse.svg"
+    },
+    {
+        "name": "Panama",
+        "capital": "Panama City",
+        "population": 3814672,
+        "flag": "https://restcountries.eu/data/pan.svg"
+    },
+    {
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "population": 8083700,
+        "flag": "https://restcountries.eu/data/png.svg"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "population": 6854536,
+        "flag": "https://restcountries.eu/data/pry.svg"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "population": 31488700,
+        "flag": "https://restcountries.eu/data/per.svg"
+    },
+    {
+        "name": "Philippines",
+        "capital": "Manila",
+        "population": 103279800,
+        "flag": "https://restcountries.eu/data/phl.svg"
+    },
+    {
+        "name": "Pitcairn",
+        "capital": "Adamstown",
+        "population": 56,
+        "flag": "https://restcountries.eu/data/pcn.svg"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "population": 38437239,
+        "flag": "https://restcountries.eu/data/pol.svg"
+    },
+    {
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "population": 10374822,
+        "flag": "https://restcountries.eu/data/prt.svg"
+    },
+    {
+        "name": "Puerto Rico",
+        "capital": "San Juan",
+        "population": 3474182,
+        "flag": "https://restcountries.eu/data/pri.svg"
+    },
+    {
+        "name": "Qatar",
+        "capital": "Doha",
+        "population": 2587564,
+        "flag": "https://restcountries.eu/data/qat.svg"
+    },
+    {
+        "name": "Republic of Kosovo",
+        "capital": "Pristina",
+        "population": 1733842,
+        "flag": "https://restcountries.eu/data/kos.svg"
+    },
+    {
+        "name": "Réunion",
+        "capital": "Saint-Denis",
+        "population": 840974,
+        "flag": "https://restcountries.eu/data/reu.svg"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "population": 19861408,
+        "flag": "https://restcountries.eu/data/rou.svg"
+    },
+    {
+        "name": "Russian Federation",
+        "capital": "Moscow",
+        "population": 146599183,
+        "flag": "https://restcountries.eu/data/rus.svg"
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "population": 11553188,
+        "flag": "https://restcountries.eu/data/rwa.svg"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "capital": "Gustavia",
+        "population": 9417,
+        "flag": "https://restcountries.eu/data/blm.svg"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "population": 4255,
+        "flag": "https://restcountries.eu/data/shn.svg"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "population": 46204,
+        "flag": "https://restcountries.eu/data/kna.svg"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "population": 186000,
+        "flag": "https://restcountries.eu/data/lca.svg"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "capital": "Marigot",
+        "population": 36979,
+        "flag": "https://restcountries.eu/data/maf.svg"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "population": 6069,
+        "flag": "https://restcountries.eu/data/spm.svg"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "population": 109991,
+        "flag": "https://restcountries.eu/data/vct.svg"
+    },
+    {
+        "name": "Samoa",
+        "capital": "Apia",
+        "population": 194899,
+        "flag": "https://restcountries.eu/data/wsm.svg"
+    },
+    {
+        "name": "San Marino",
+        "capital": "City of San Marino",
+        "population": 33005,
+        "flag": "https://restcountries.eu/data/smr.svg"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "capital": "São Tomé",
+        "population": 187356,
+        "flag": "https://restcountries.eu/data/stp.svg"
+    },
+    {
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "population": 32248200,
+        "flag": "https://restcountries.eu/data/sau.svg"
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "population": 14799859,
+        "flag": "https://restcountries.eu/data/sen.svg"
+    },
+    {
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "population": 7076372,
+        "flag": "https://restcountries.eu/data/srb.svg"
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "population": 91400,
+        "flag": "https://restcountries.eu/data/syc.svg"
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "population": 7075641,
+        "flag": "https://restcountries.eu/data/sle.svg"
+    },
+    {
+        "name": "Singapore",
+        "capital": "Singapore",
+        "population": 5535000,
+        "flag": "https://restcountries.eu/data/sgp.svg"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "capital": "Philipsburg",
+        "population": 38247,
+        "flag": "https://restcountries.eu/data/sxm.svg"
+    },
+    {
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "population": 5426252,
+        "flag": "https://restcountries.eu/data/svk.svg"
+    },
+    {
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "population": 2064188,
+        "flag": "https://restcountries.eu/data/svn.svg"
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "population": 642000,
+        "flag": "https://restcountries.eu/data/slb.svg"
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "population": 11079000,
+        "flag": "https://restcountries.eu/data/som.svg"
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "population": 55653654,
+        "flag": "https://restcountries.eu/data/zaf.svg"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "capital": "King Edward Point",
+        "population": 30,
+        "flag": "https://restcountries.eu/data/sgs.svg"
+    },
+    {
+        "name": "Korea (Republic of)",
+        "capital": "Seoul",
+        "population": 50801405,
+        "flag": "https://restcountries.eu/data/kor.svg"
+    },
+    {
+        "name": "South Sudan",
+        "capital": "Juba",
+        "population": 12131000,
+        "flag": "https://restcountries.eu/data/ssd.svg"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "population": 46438422,
+        "flag": "https://restcountries.eu/data/esp.svg"
+    },
+    {
+        "name": "Sri Lanka",
+        "capital": "Colombo",
+        "population": 20966000,
+        "flag": "https://restcountries.eu/data/lka.svg"
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "population": 39598700,
+        "flag": "https://restcountries.eu/data/sdn.svg"
+    },
+    {
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "population": 541638,
+        "flag": "https://restcountries.eu/data/sur.svg"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "population": 2562,
+        "flag": "https://restcountries.eu/data/sjm.svg"
+    },
+    {
+        "name": "Swaziland",
+        "capital": "Lobamba",
+        "population": 1132657,
+        "flag": "https://restcountries.eu/data/swz.svg"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "population": 9894888,
+        "flag": "https://restcountries.eu/data/swe.svg"
+    },
+    {
+        "name": "Switzerland",
+        "capital": "Bern",
+        "population": 8341600,
+        "flag": "https://restcountries.eu/data/che.svg"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "capital": "Damascus",
+        "population": 18564000,
+        "flag": "https://restcountries.eu/data/syr.svg"
+    },
+    {
+        "name": "Taiwan",
+        "capital": "Taipei",
+        "population": 23503349,
+        "flag": "https://restcountries.eu/data/twn.svg"
+    },
+    {
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "population": 8593600,
+        "flag": "https://restcountries.eu/data/tjk.svg"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "capital": "Dodoma",
+        "population": 55155000,
+        "flag": "https://restcountries.eu/data/tza.svg"
+    },
+    {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "population": 65327652,
+        "flag": "https://restcountries.eu/data/tha.svg"
+    },
+    {
+        "name": "Timor-Leste",
+        "capital": "Dili",
+        "population": 1167242,
+        "flag": "https://restcountries.eu/data/tls.svg"
+    },
+    {
+        "name": "Togo",
+        "capital": "Lomé",
+        "population": 7143000,
+        "flag": "https://restcountries.eu/data/tgo.svg"
+    },
+    {
+        "name": "Tokelau",
+        "capital": "Fakaofo",
+        "population": 1411,
+        "flag": "https://restcountries.eu/data/tkl.svg"
+    },
+    {
+        "name": "Tonga",
+        "capital": "Nuku'alofa",
+        "population": 103252,
+        "flag": "https://restcountries.eu/data/ton.svg"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "population": 1349667,
+        "flag": "https://restcountries.eu/data/tto.svg"
+    },
+    {
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "population": 11154400,
+        "flag": "https://restcountries.eu/data/tun.svg"
+    },
+    {
+        "name": "Turkey",
+        "capital": "Ankara",
+        "population": 78741053,
+        "flag": "https://restcountries.eu/data/tur.svg"
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "population": 4751120,
+        "flag": "https://restcountries.eu/data/tkm.svg"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "population": 31458,
+        "flag": "https://restcountries.eu/data/tca.svg"
+    },
+    {
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "population": 10640,
+        "flag": "https://restcountries.eu/data/tuv.svg"
+    },
+    {
+        "name": "Uganda",
+        "capital": "Kampala",
+        "population": 33860700,
+        "flag": "https://restcountries.eu/data/uga.svg"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kiev",
+        "population": 42692393,
+        "flag": "https://restcountries.eu/data/ukr.svg"
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "population": 9856000,
+        "flag": "https://restcountries.eu/data/are.svg"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "capital": "London",
+        "population": 65110000,
+        "flag": "https://restcountries.eu/data/gbr.svg"
+    },
+    {
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "population": 323947000,
+        "flag": "https://restcountries.eu/data/usa.svg"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "population": 3480222,
+        "flag": "https://restcountries.eu/data/ury.svg"
+    },
+    {
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "population": 31576400,
+        "flag": "https://restcountries.eu/data/uzb.svg"
+    },
+    {
+        "name": "Vanuatu",
+        "capital": "Port Vila",
+        "population": 277500,
+        "flag": "https://restcountries.eu/data/vut.svg"
+    },
+    {
+        "name": "Venezuela (Bolivarian Republic of)",
+        "capital": "Caracas",
+        "population": 31028700,
+        "flag": "https://restcountries.eu/data/ven.svg"
+    },
+    {
+        "name": "Viet Nam",
+        "capital": "Hanoi",
+        "population": 92700000,
+        "flag": "https://restcountries.eu/data/vnm.svg"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "population": 11750,
+        "flag": "https://restcountries.eu/data/wlf.svg"
+    },
+    {
+        "name": "Western Sahara",
+        "capital": "El Aaiún",
+        "population": 510713,
+        "flag": "https://restcountries.eu/data/esh.svg"
+    },
+    {
+        "name": "Yemen",
+        "capital": "Sana'a",
+        "population": 27478000,
+        "flag": "https://restcountries.eu/data/yem.svg"
+    },
+    {
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "population": 15933883,
+        "flag": "https://restcountries.eu/data/zmb.svg"
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "population": 14240168,
+        "flag": "https://restcountries.eu/data/zwe.svg"
+    }
+]
