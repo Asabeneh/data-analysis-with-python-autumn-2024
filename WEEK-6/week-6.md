@@ -167,7 +167,7 @@ Errors and exceptions are integral parts of programming. They occur when Python 
 
 A **SyntaxError** arises when the code you write does not follow the proper syntax rules of Python. It usually happens when there are missing symbols (like parentheses or colons) or incorrect indentation.
 
-Example 1: 
+Example 1:
 
 ```py
 # Missing closing parenthesis
@@ -588,19 +588,19 @@ File handling is an essential operation in programming that allows developers to
    - `'a'`: Open a file for **appending** data at the end.
    - `'r+'`: Open a file for both **reading and writing**.
 
-2. **Reading from a File**: 
+2. **Reading from a File**:
    Python provides multiple ways to read the contents of a file:
    - `read()`: Reads the entire content of the file.
    - `readline()`: Reads one line at a time.
    - `readlines()`: Reads all lines and returns them as a list of strings.
 
-3. **Writing to a File**: 
+3. **Writing to a File**:
    To write data to a file, you can use the `write()` or `writelines()` method. Be cautious when using write mode (`'w'`), as it will overwrite the file.
 
-4. **Closing a File**: 
+4. **Closing a File**:
    It is essential to close a file after its operations are completed using the `close()` method. This ensures that resources are freed and changes to the file are saved.
 
-5. **With Statement**: 
+5. **With Statement**:
    Using the `with` statement is the recommended way to handle files in Python, as it automatically closes the file after the block of code is executed.
 
 ### Example: Reading and Counting Words in a File
@@ -634,6 +634,7 @@ print("Words in the file:", total_words)
 ```
 
 **Explanation**:
+
 1. The file `notes.txt` is opened in read mode using the `with` statement.
 2. `readlines()` is used to read all lines from the file and store them in the `lines` list.
 3. Each line is processed by:
@@ -644,6 +645,7 @@ print("Words in the file:", total_words)
 4. The resulting words are added to the `total_words` list, which is printed at the end.
 
 **Output**:
+
 ```
 Words in the file: ['hello', 'welcome', 'to', 'file', 'handling', 'in', 'python', 'file', 'handling', 'allows', 'you', 'to', 'read', 'and', 'write', 'files', 'this', 'is', 'useful', 'for', 'text', 'processing', 'and', 'data', 'storage']
 ```
@@ -696,16 +698,19 @@ File handling in Python is a straightforward process that plays a crucial role i
 ### Self Study
 
 [Regular expression](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md)
+
 [Date and time in Python](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/16_Day_Python_date_time/16_python_datetime.md)
+
 [NumPy](https://github.com/Asabeneh/NumPy/blob/main/NumPy.ipynb)
+
 [Pandas](https://asabeneh.github.io/Pandas/)
-[Matplotlib(Data Visualization)](https://github.com/Asabeneh/matplotlib/blob/master/Visualizations.ipynb
-)
+
+[Matplotlib(Data Visualization)](https://github.com/Asabeneh/matplotlib/blob/master/Visualizations.ipynb)
 
 ## Exercises
 
 - Will be released
 
-[countries data](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) 
+[countries data](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py)
 
 [<< WEEK 4](../WEEK-4/week-5.md.md) | [WEEK 7 >>](../WEEK-7/week-6.md)
