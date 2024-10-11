@@ -1,6 +1,7 @@
 # File formats: txt, py, html, xml, json, csv, tsv, pdf, xaml
 # Common file formats: csv, json, txt, 
 
+# Reading files using Python
 f = open('./WEEK-6/notes.txt')
 lines = f.readlines()
 total_words = []
