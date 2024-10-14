@@ -709,8 +709,30 @@ File handling in Python is a straightforward process that plays a crucial role i
 
 ## Exercises
 
-- Will be released
+1. Load the [cats] (<https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/cats.json>) by reading the cats json file. Use list comprehension and functional programming alternatively and you can check your result from this [website](https://cats-paradise-f994f218e0ee.herokuapp.com/stats).
+   1. Count the number of cat breeds
+   2. Which country has the largest number of cat breeds
+   3. Filter cat breeds highers than 5 Killo grams
+   4. What is the average weight of cat across breed based on this data?
+   5. What is the average life span of cat across breed on this data?
+   6. The data has a description for describing each cat, find the 10 most common words used for describing cat
+   7. What are the countries that have one or more breeds in this data
+2. Data Visualization
+   1. Create a word frequency table of the cat breeds description or line graph
+   2. Create a word cloud of the cat breeds description
+   3. Create a bar graph of cats origin per number of cat breeds
+   4. Create a Pie chart of cat breeds percentage by country
+3. Fetch the cat breeds data from this [API](https://api.thecatapi.com/v1/breeds) and all answer Q1. Install ```requests``` package using ```pip install requests```. Then use this function to fetch the data:
 
-[countries data](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py)
+    ```py
+    def fetch_data(url):
+        import requests
+        response = requests.get(url)
+        if url.endswith('.txt'):
+            return response.content
+        else:
+            data = response.json()
+            return data
+    ```
 
 [<< WEEK 4](../WEEK-4/week-5.md.md) | [WEEK 7 >>](../WEEK-7/week-6.md)
