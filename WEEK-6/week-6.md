@@ -735,4 +735,4 @@ File handling in Python is a straightforward process that plays a crucial role i
             return data
     ```
 
-[<< WEEK 4](../WEEK-4/week-5.md.md) | [WEEK 7 >>](../WEEK-7/week-6.md)
+[<< WEEK 4](../WEEK-4/week-5.md.md) | [WEEK 7 >>](../WEEK-7/week-7.md)
